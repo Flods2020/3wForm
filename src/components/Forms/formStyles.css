@@ -1,0 +1,19 @@
+form {
+  background: #131313;
+  padding: 30px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+input {
+  margin: 20px 60px;
+  width: 200px;
+}
+
+button {
+  margin: auto;
+  padding: 15px;
+  font-size: 1.1em;
+}
